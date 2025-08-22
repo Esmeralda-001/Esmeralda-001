@@ -1,48 +1,39 @@
-Olá, eu sou Esmeralda 👋
 
-Estudante de Desenvolvimento de Sistemas | Apaixonada por Lógica de Programação e Programação
+Olá, seja bem-vindo ao meu GitHub! 👩‍💻💻
 
-Bem-vindo ao meu GitHub! Estou começando minha jornada no mundo da programação e desenvolvimento de sistemas, e aqui você encontrará alguns dos meus projetos e estudos. Meu foco atual é aprender e aplicar os conceitos de lógica de programação, linguagens como Python, JavaScript e C, além de explorar o mundo do desenvolvimento de sistemas.
+Sou estudante de Desenvolvimento de Sistemas, com foco em Lógica de Programação, Processos de Desenvolvimento de Software, **Redes de Computadores** e **Segurança da Informação na Nuvem**. Estou nessa jornada apaixonante da **Ciência da Computação** há **7 meses e cada dia que passa fico mais fascinada por esse mundo incrível de códigos, redes e inovação tecnológica! 🚀
 
-🖥️ Sobre Mim
+## 📚 Sobre o meu curso:
 
-Idade: 17 anos
+Atualmente, estou cursando **Desenvolvimento de Sistemas** e adquirindo conhecimentos fundamentais para o desenvolvimento de softwares e sistemas, como:
 
-Curso: Estudante de Desenvolvimento de Sistemas
+* Lógica de Programação 💡
+* Processos de Desenvolvimento de Software 🛠️
+* Redes de Computadores 🌐
+* Segurança da Informação na Nuvem ☁️
 
-Áreas de Interesse: Lógica de Programação, Desenvolvimento Web, Aplicações Desktop e Programação de Sistemas
+## ⚙️ Ferramentas que uso:
 
-🔧 Habilidades
+* **PyCharm**: Meu editor favorito para desenvolvimento em Python 🐍
+* **Visual Studio Code**: Para projetos mais variados e flexíveis 💻
+* **Python**: A linguagem que estou mais focada e que me proporciona prazer em programar!
 
-Linguagens de Programação: Python
+## 💡 O que estou aprendendo:
 
+* **Lógica de Programação**: Como criar algoritmos eficientes e resolver problemas de forma criativa.
+* **Desenvolvimento de Software**: Como organizar, planejar e desenvolver sistemas complexos.
+* **Redes e Segurança**: Como garantir a segurança dos dados e conectar sistemas de forma eficiente e segura.
+* **Nuvem**: Como armazenar e processar dados na nuvem, um dos pilares da inovação digital.
 
-Desenvolvimento de Sistemas: Estruturas de dados, algoritmos e conceitos de lógica de programação
+## 🚀 O que me motiva:
 
-Ferramentas: Git, VS Code
+Minha maior motivação é transformar ideias em soluções tecnológicas que possam ajudar a melhorar o mundo ao nosso redor. A Ciência da Computação me fascina porque combina lógica, criatividade e inovação para criar soluções que impactam diretamente nossas vidas.
 
-💡 Projetos
+### 📍 Atualizações:
 
-Aqui estão alguns projetos que desenvolvi durante meus estudos:
+* Sempre estou buscando aprender mais sobre novas tecnologias, frameworks e técnicas de desenvolvimento.
+* Busco aplicar tudo o que aprendo em meus projetos e contribuir com a comunidade de código aberto.
 
-🌱 Objetivos
+## 💬 Vamos nos conectar!
 
-Aperfeiçoar meus conhecimentos em lógica de programação e estruturas de dados.
-
-Desenvolver projetos completos, desde o front-end até o back-end.
-
-Continuar aprendendo novas linguagens de programação e explorar frameworks para desenvolvimento web e de sistemas.
-
-📬 Como me encontrar
-
-# Redes Sociais
-
-<div>
-  <a href="https://www.linkedin.com/in/claudia-heleno" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:esmeraldabarbosadasilva00@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+Se você compartilha o amor pela Ciência da Computação, adora desafios de programação ou tem dicas para melhorar o meu aprendizado, não hesite em me mandar uma mensagem. Vamos aprender juntos! 😊
